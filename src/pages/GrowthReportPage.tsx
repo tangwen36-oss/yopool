@@ -75,7 +75,7 @@ export default function GrowthReportPage() {
             </div>
             <div className="flex items-center justify-center gap-2 mt-4">
               <div className="w-6 h-6 rounded-full bg-slate-200 overflow-hidden">
-                <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCxQKNYiYAHDMAKpufw2PU1g39t5jSCOyZsjz0x5NCTEZ96tt-dl_qP4jw06rHrFebKkvAxQC15RudPoZtCBOV17xArfxvybqFdmKvvnMGYzd3LHn7mLgbDrpPcNggJXGZUfQGq9l_eY-N908OiAWMH_xDmr4bd1wKe-Y9R1PCQGEII3malBa-_EAPdgwfoLcVzgIBk2F1pkaE-a-KGTzsRyTPCsZtNhrkulfnf6f8HHsJp50-UyDEiSSg7nimCbjR6RGvXxGPH2TM" alt="Coach" className="w-full h-full object-cover" />
+                <img src="/images/coach.jpg" alt="Coach" className="w-full h-full object-cover" />
               </div>
               <span className="text-white/60 text-xs font-bold">Alex 教练</span>
             </div>

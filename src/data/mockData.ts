@@ -80,7 +80,7 @@ export const homeCards: Course[] = [
     age: '4-6岁',
     price: '¥1,899',
     lessons: '10课时',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuALhysNciR_YSB9TB2Z1JpDfzPZ0JTwiIGnyxW4b0pB8fdfFvUzsf-JNaUYQJt8d0iyR8mlXOut5KU5bvbm9W9Y-JnN0m939bak_njL2MxtSe5B6e1oDfDpnznFEBYroPAlaxN7W1lhQ8xQuFQcfHVQ1iDNWwDGdAYlSZvEDwhEru5-X1a1zzqOKvJPfaDFp6fZZO6WxB100e4GlsTddYd52KfESk-k6sVCproJd6h2T-JX7QYO8wDlxCYT2RklIclsxWZGrKAwXbQ',
+    img: '/images/child-swimming.jpg',
   },
   {
     id: 'home-2',
@@ -90,7 +90,7 @@ export const homeCards: Course[] = [
     age: '7-12岁',
     price: '¥2,299',
     lessons: '12课时',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDQkR3W_RWwle-pS3zLWjD0p2rvbhbVKd-qD2T7xK4gLbQ0bhBvjUyC6sU1A6l7kyDlZ1_8J8crN9P4xio_pImoihbIzpW05ldFMeMaWAngZwBBF-EJxQ3OdsXLrw34L25YwGIlMMGBXm8uFEJERDwKmsRYN96pL4ltZqdSmC3ovkry-sJboTmQZjYWhG8ybR0OcHiYBM9WDSuWRFP2D3yI4shnztcPTEtqF48Plewj7eN1LP7JrFSRFhxIqNwUAnthfrSZ2gejXqg',
+    img: '/images/freestyle-swimming.jpg',
   },
 ];
 
@@ -100,17 +100,17 @@ export const venues: Venue[] = [
   {
     name: '上海游泳馆',
     dist: '1.2km',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCKuXFjqJxs23jILilRmi5AGtoQhu3Bc1RV5rPN_wke8dKaEjoeE92DL3mRYIYYAJDMQwDREWP5r9suhZa705iGGSl5YulX4fx8F6J0KVwEuC3PTOnK6lMgSs58ZMipvLFG-qDdqniLkDm3zSdHgvtb0M6fR0CqHMr9cvzSrzP2sCk8ubgqmr4Q68L7yj3Tc5i7BJtQFkhwbowT7AhxrTIEIrOQ7sFbt--aLPUYCopCRRms7isV1P_nxo4dWzbLtNeQTvas_FWOQSI',
+    img: '/images/venue-shanghai.jpg',
   },
   {
     name: '浦东水上中心',
     dist: '3.5km',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAAX-EcILbMYqIif8Vbip4MltD52SzIGz6rRNdYORfw0nQzzwON5oEaoygpQY4gtY63knR3E3i_UjebNoXoYInB9ETK3FB3Zk8UR-ikM9fQ_mfkOOBRsTBRcNHXKo8nYUZV23O12hUwVUA5ZSMzmQqPkVoTo7f7EDeJcVn6rwObsMehnagjQOHL2R4XriulcMZ1Plbev6VceW08NedMkIZ0fITmBEhyE-4Euw_QxJdCEZmgLd9iEOgyVVhYbQSmSrFjbH3JRrQHB9c',
+    img: '/images/venue-pudong.jpg',
   },
   {
     name: '徐汇俱乐部',
     dist: '5.8km',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuA_UZzXc3Unw__r-gYBjAgqoZ_6lZEFadh9piHeqsXLSzLAKl6cpE-iC262oMb58Hr-GYwYDjK-VGVhxOtDpsvF11IMp5fX4jR3cLV_U8avgojh-GYjQceLW518JldPjTuJd4IOdaGvpa4BASNp2PDri_QFi9YrJlpsHR31d7NulNBTd-KH68uK-D5NQbBWr9MV0YOegtuyKvLuVMOjTML3A2iYYtfluEONGAmNjeuukdpukrCB_jaF9JJeRPOHwC1Yetr2G8fa0TM',
+    img: '/images/venue-xuhui.jpg',
   },
 ];
 
@@ -124,7 +124,7 @@ export const courses: Course[] = [
     age: '4-6岁',
     price: '¥1,899',
     lessons: '10课时',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDQkR3W_RWwle-pS3zLWjD0p2rvbhbVKd-qD2T7xK4gLbQ0bhBvjUyC6sU1A6l7kyDlZ1_8J8crN9P4xio_pImoihbIzpW05ldFMeMaWAngZwBBF-EJxQ3OdsXLrw34L25YwGIlMMGBXm8uFEJERDwKmsRYN96pL4ltZqdSmC3ovkry-sJboTmQZjYWhG8ybR0OcHiYBM9WDSuWRFP2D3yI4shnztcPTEtqF48Plewj7eN1LP7JrFSRFhxIqNwUAnthfrSZ2gejXqg',
+    img: '/images/freestyle-swimming.jpg',
   },
   {
     id: 'course-2',
@@ -133,7 +133,7 @@ export const courses: Course[] = [
     age: '7-12岁',
     price: '¥2,299',
     lessons: '12课时',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCKuXFjqJxs23jILilRmi5AGtoQhu3Bc1RV5rPN_wke8dKaEjoeE92DL3mRYIYYAJDMQwDREWP5r9suhZa705iGGSl5YulX4fx8F6J0KVwEuC3PTOnK6lMgSs58ZMipvLFG-qDdqniLkDm3zSdHgvtb0M6fR0CqHMr9cvzSrzP2sCk8ubgqmr4Q68L7yj3Tc5i7BJtQFkhwbowT7AhxrTIEIrOQ7sFbt--aLPUYCopCRRms7isV1P_nxo4dWzbLtNeQTvas_FWOQSI',
+    img: '/images/venue-shanghai.jpg',
   },
   {
     id: 'course-3',
@@ -142,7 +142,7 @@ export const courses: Course[] = [
     age: '18+',
     price: '¥3,599',
     lessons: '20课时',
-    img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAAX-EcILbMYqIif8Vbip4MltD52SzIGz6rRNdYORfw0nQzzwON5oEaoygpQY4gtY63knR3E3i_UjebNoXoYInB9ETK3FB3Zk8UR-ikM9fQ_mfkOOBRsTBRcNHXKo8nYUZV23O12hUwVUA5ZSMzmQqPkVoTo7f7EDeJcVn6rwObsMehnagjQOHL2R4XriulcMZ1Plbev6VceW08NedMkIZ0fITmBEhyE-4Euw_QxJdCEZmgLd9iEOgyVVhYbQSmSrFjbH3JRrQHB9c',
+    img: '/images/venue-pudong.jpg',
   },
 ];
 
@@ -325,5 +325,5 @@ export const trialClass = {
   price: '¥99',
   originalPrice: '¥299',
   badge: '新人首选',
-  img: 'https://lh3.googleusercontent.com/aida-public/AB6AXuALhysNciR_YSB9TB2Z1JpDfzPZ0JTwiIGnyxW4b0pB8fdfFvUzsf-JNaUYQJt8d0iyR8mlXOut5KU5bvbm9W9Y-JnN0m939bak_njL2MxtSe5B6e1oDfDpnznFEBYroPAlaxN7W1lhQ8xQuFQcfHVQ1iDNWwDGdAYlSZvEDwhEru5-X1a1zzqOKvJPfaDFp6fZZO6WxB100e4GlsTddYd52KfESk-k6sVCproJd6h2T-JX7QYO8wDlxCYT2RklIclsxWZGrKAwXbQ',
+  img: '/images/child-swimming.jpg',
 };

@@ -88,7 +88,7 @@ export default function LessonSummaryPage() {
               <span className="text-[10px] font-bold">上传照片</span>
             </div>
             <div className="aspect-square rounded-xl bg-slate-100 overflow-hidden relative group">
-              <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuALhysNciR_YSB9TB2Z1JpDfzPZ0JTwiIGnyxW4b0pB8fdfFvUzsf-JNaUYQJt8d0iyR8mlXOut5KU5bvbm9W9Y-JnN0m939bak_njL2MxtSe5B6e1oDfDpnznFEBYroPAlaxN7W1lhQ8xQuFQcfHVQ1iDNWwDGdAYlSZvEDwhEru5-X1a1zzqOKvJPfaDFp6fZZO6WxB100e4GlsTddYd52KfESk-k6sVCproJd6h2T-JX7QYO8wDlxCYT2RklIclsxWZGrKAwXbQ" className="w-full h-full object-cover" />
+              <img src="/images/child-swimming.jpg" className="w-full h-full object-cover" />
               <button className="absolute top-1 right-1 w-5 h-5 rounded-full bg-black/50 text-white flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
                 <span className="material-symbols-outlined text-[14px]">close</span>
               </button>

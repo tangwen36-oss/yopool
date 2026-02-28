@@ -15,7 +15,7 @@ export default function CoachProfilePage() {
           
           <div className="flex flex-col items-center">
             <div className="w-24 h-24 rounded-full border-4 border-white shadow-lg overflow-hidden mb-3 relative">
-               <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCxQKNYiYAHDMAKpufw2PU1g39t5jSCOyZsjz0x5NCTEZ96tt-dl_qP4jw06rHrFebKkvAxQC15RudPoZtCBOV17xArfxvybqFdmKvvnMGYzd3LHn7mLgbDrpPcNggJXGZUfQGq9l_eY-N908OiAWMH_xDmr4bd1wKe-Y9R1PCQGEII3malBa-_EAPdgwfoLcVzgIBk2F1pkaE-a-KGTzsRyTPCsZtNhrkulfnf6f8HHsJp50-UyDEiSSg7nimCbjR6RGvXxGPH2TM" alt="Coach Profile" className="w-full h-full object-cover" />
+               <img src="/images/coach.jpg" alt="Coach Profile" className="w-full h-full object-cover" />
                <div className="absolute bottom-0 right-0 w-6 h-6 bg-green-500 border-2 border-white rounded-full"></div>
             </div>
             <h1 className="text-2xl font-black text-white mb-1">Coach Mike</h1>
